@@ -5,3 +5,4 @@ commit
 Git is free software ...
 stash
 ssss
+local
